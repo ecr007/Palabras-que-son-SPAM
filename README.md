@@ -1,5 +1,6 @@
 # Palabras-que-son-SPAM
 
+```
 byob
 soma
 loan
@@ -341,3 +342,4 @@ viagra
 vioxx
 xanax
 zolus
+```
